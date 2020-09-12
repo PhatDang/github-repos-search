@@ -1,0 +1,20 @@
+{
+  "name": "github-repos-search",
+  "version": "1.0.0",
+  "description": "Github Repos Search",
+  "main": "base.js",
+  "homepage": "https://github.com/phatdang/github-repos-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phatdang/github-repos-search"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Phat Dang Minh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
